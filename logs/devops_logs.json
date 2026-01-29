@@ -1,0 +1,2400 @@
+[{
+  "_id": {
+    "$oid": "697b54a1e9f9045abfa22fee"
+  },
+  "services": "auth-service",
+  "level": "ERROR",
+  "message": "JWT token expired",
+  "timestamp": {
+    "$date": "2026-01-29T12:37:53.863Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b54a1e9f9045abfa22fef"
+  },
+  "service": "payment-service",
+  "level": "INFO",
+  "message": "Payment processed",
+  "timestamp": {
+    "$date": "2026-01-29T12:37:53.863Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5c0f83608f2a62d18802"
+  },
+  "service": "payment-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:09:35.636Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5c1283608f2a62d18803"
+  },
+  "service": "auth-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:09:38.420Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5c1483608f2a62d18804"
+  },
+  "service": "order-service",
+  "level": "INFO",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:09:40.554Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5c1683608f2a62d18805"
+  },
+  "service": "auth-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:09:42.637Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5c1883608f2a62d18806"
+  },
+  "service": "payment-service",
+  "level": "INFO",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:09:44.701Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5c1a83608f2a62d18807"
+  },
+  "service": "payment-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:09:46.769Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5c1c83608f2a62d18808"
+  },
+  "service": "auth-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:09:48.828Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5c1e83608f2a62d18809"
+  },
+  "service": "order-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:09:50.896Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5c2083608f2a62d1880a"
+  },
+  "service": "order-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:09:52.953Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5c2383608f2a62d1880b"
+  },
+  "service": "auth-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:09:55.053Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5c2583608f2a62d1880c"
+  },
+  "service": "payment-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:09:57.128Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5c2783608f2a62d1880d"
+  },
+  "service": "payment-service",
+  "level": "INFO",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:09:59.197Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5c2a83608f2a62d1880e"
+  },
+  "service": "payment-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:10:02.282Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5c2c83608f2a62d1880f"
+  },
+  "service": "order-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:10:04.613Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5c2e83608f2a62d18810"
+  },
+  "service": "auth-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:10:06.805Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5c3083608f2a62d18811"
+  },
+  "service": "order-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:10:08.870Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5c3283608f2a62d18812"
+  },
+  "service": "payment-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:10:10.993Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5c3583608f2a62d18813"
+  },
+  "service": "order-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:10:13.056Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5c3783608f2a62d18814"
+  },
+  "service": "payment-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:10:15.114Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5c3983608f2a62d18815"
+  },
+  "service": "auth-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:10:17.207Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5c3b83608f2a62d18816"
+  },
+  "service": "auth-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:10:19.269Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5c3d83608f2a62d18817"
+  },
+  "service": "payment-service",
+  "level": "INFO",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:10:21.334Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5c3f83608f2a62d18818"
+  },
+  "service": "order-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:10:23.396Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5c4183608f2a62d18819"
+  },
+  "service": "payment-service",
+  "level": "INFO",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:10:25.453Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5c4383608f2a62d1881a"
+  },
+  "service": "payment-service",
+  "level": "INFO",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:10:27.518Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5c4583608f2a62d1881b"
+  },
+  "service": "payment-service",
+  "level": "INFO",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:10:29.590Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5c4783608f2a62d1881c"
+  },
+  "service": "auth-service",
+  "level": "INFO",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:10:31.662Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5c4a83608f2a62d1881d"
+  },
+  "service": "payment-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:10:34.707Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5c4c83608f2a62d1881e"
+  },
+  "service": "payment-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:10:36.770Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5c4e83608f2a62d1881f"
+  },
+  "service": "payment-service",
+  "level": "INFO",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:10:38.865Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5c5083608f2a62d18820"
+  },
+  "service": "auth-service",
+  "level": "INFO",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:10:40.939Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5c5383608f2a62d18821"
+  },
+  "service": "order-service",
+  "level": "INFO",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:10:43.016Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5c5583608f2a62d18822"
+  },
+  "service": "order-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:10:45.073Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5c5783608f2a62d18823"
+  },
+  "service": "auth-service",
+  "level": "INFO",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:10:47.201Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5c5983608f2a62d18824"
+  },
+  "service": "payment-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:10:49.267Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5c5b83608f2a62d18825"
+  },
+  "service": "payment-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:10:51.331Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5c5d83608f2a62d18826"
+  },
+  "service": "order-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:10:53.459Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5c5f83608f2a62d18827"
+  },
+  "service": "auth-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:10:55.525Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5c6183608f2a62d18828"
+  },
+  "service": "auth-service",
+  "level": "INFO",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:10:57.583Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5c6383608f2a62d18829"
+  },
+  "service": "payment-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:10:59.641Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5c6583608f2a62d1882a"
+  },
+  "service": "payment-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:11:01.704Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5c6783608f2a62d1882b"
+  },
+  "service": "auth-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:11:03.767Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5c6983608f2a62d1882c"
+  },
+  "service": "order-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:11:05.840Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5c6d83608f2a62d1882d"
+  },
+  "service": "auth-service",
+  "level": "INFO",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:11:09.069Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5c6f83608f2a62d1882e"
+  },
+  "service": "order-service",
+  "level": "INFO",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:11:11.138Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5c7183608f2a62d1882f"
+  },
+  "service": "auth-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:11:13.201Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5c7383608f2a62d18830"
+  },
+  "service": "auth-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:11:15.273Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5c7583608f2a62d18831"
+  },
+  "service": "auth-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:11:17.327Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5c7783608f2a62d18832"
+  },
+  "service": "auth-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:11:19.396Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5c7983608f2a62d18833"
+  },
+  "service": "order-service",
+  "level": "INFO",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:11:21.455Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5c7b83608f2a62d18834"
+  },
+  "service": "payment-service",
+  "level": "INFO",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:11:23.528Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5c7d83608f2a62d18835"
+  },
+  "service": "payment-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:11:25.592Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5c7f83608f2a62d18836"
+  },
+  "service": "auth-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:11:27.647Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5c8183608f2a62d18837"
+  },
+  "service": "payment-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:11:29.700Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5c8383608f2a62d18838"
+  },
+  "service": "auth-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:11:31.763Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5c8583608f2a62d18839"
+  },
+  "service": "order-service",
+  "level": "INFO",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:11:33.817Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5c8783608f2a62d1883a"
+  },
+  "service": "order-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:11:35.888Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5c8983608f2a62d1883b"
+  },
+  "service": "payment-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:11:37.945Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5c8c83608f2a62d1883c"
+  },
+  "service": "order-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:11:40.022Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5c8e83608f2a62d1883d"
+  },
+  "service": "payment-service",
+  "level": "INFO",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:11:42.085Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5c9083608f2a62d1883e"
+  },
+  "service": "order-service",
+  "level": "INFO",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:11:44.261Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5c9283608f2a62d1883f"
+  },
+  "service": "order-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:11:46.321Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5c9483608f2a62d18840"
+  },
+  "service": "payment-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:11:48.382Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5c9683608f2a62d18841"
+  },
+  "service": "payment-service",
+  "level": "INFO",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:11:50.451Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5c9883608f2a62d18842"
+  },
+  "service": "payment-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:11:52.536Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5c9a83608f2a62d18843"
+  },
+  "service": "auth-service",
+  "level": "INFO",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:11:54.600Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5c9d83608f2a62d18844"
+  },
+  "service": "auth-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:11:57.781Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5c9f83608f2a62d18845"
+  },
+  "service": "order-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:11:59.846Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5ca183608f2a62d18846"
+  },
+  "service": "auth-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:12:01.911Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5ca383608f2a62d18847"
+  },
+  "service": "payment-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:12:03.973Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5ca683608f2a62d18848"
+  },
+  "service": "order-service",
+  "level": "INFO",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:12:06.031Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5ca883608f2a62d18849"
+  },
+  "service": "payment-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:12:08.151Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5caa83608f2a62d1884a"
+  },
+  "service": "auth-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:12:10.226Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5cac83608f2a62d1884b"
+  },
+  "service": "auth-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:12:12.289Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5cae83608f2a62d1884c"
+  },
+  "service": "auth-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:12:14.392Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5cb083608f2a62d1884d"
+  },
+  "service": "auth-service",
+  "level": "INFO",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:12:16.452Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5cb283608f2a62d1884e"
+  },
+  "service": "payment-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:12:18.504Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5cb483608f2a62d1884f"
+  },
+  "service": "order-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:12:20.575Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5cb683608f2a62d18850"
+  },
+  "service": "order-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:12:22.641Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5cb883608f2a62d18851"
+  },
+  "service": "order-service",
+  "level": "INFO",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:12:24.705Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5cba83608f2a62d18852"
+  },
+  "service": "payment-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:12:26.758Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5cbc83608f2a62d18853"
+  },
+  "service": "order-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:12:28.831Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5cbf83608f2a62d18854"
+  },
+  "service": "payment-service",
+  "level": "INFO",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:12:31.877Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5cc183608f2a62d18855"
+  },
+  "service": "auth-service",
+  "level": "INFO",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:12:33.945Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5cc483608f2a62d18856"
+  },
+  "service": "auth-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:12:36.043Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5cc683608f2a62d18857"
+  },
+  "service": "order-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:12:38.103Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5cc883608f2a62d18858"
+  },
+  "service": "payment-service",
+  "level": "INFO",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:12:40.163Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5cca83608f2a62d18859"
+  },
+  "service": "auth-service",
+  "level": "INFO",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:12:42.224Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5ccc83608f2a62d1885a"
+  },
+  "service": "payment-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:12:44.283Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5cce83608f2a62d1885b"
+  },
+  "service": "auth-service",
+  "level": "INFO",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:12:46.340Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5cd083608f2a62d1885c"
+  },
+  "service": "auth-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:12:48.403Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5cd283608f2a62d1885d"
+  },
+  "service": "auth-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:12:50.466Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5cd483608f2a62d1885e"
+  },
+  "service": "order-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:12:52.530Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5cd683608f2a62d1885f"
+  },
+  "service": "order-service",
+  "level": "INFO",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:12:54.591Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5cd883608f2a62d18860"
+  },
+  "service": "auth-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:12:56.674Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5cda83608f2a62d18861"
+  },
+  "service": "order-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:12:58.725Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5cdc83608f2a62d18862"
+  },
+  "service": "auth-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:13:00.795Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5cde83608f2a62d18863"
+  },
+  "service": "payment-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:13:02.848Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5ce183608f2a62d18864"
+  },
+  "service": "payment-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:13:05.838Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5ce383608f2a62d18865"
+  },
+  "service": "auth-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:13:07.898Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5ce683608f2a62d18866"
+  },
+  "service": "order-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:13:10.239Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5ce883608f2a62d18867"
+  },
+  "service": "auth-service",
+  "level": "INFO",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:13:12.302Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5cea83608f2a62d18868"
+  },
+  "service": "payment-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:13:14.368Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5cec83608f2a62d18869"
+  },
+  "service": "order-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:13:16.419Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5cee83608f2a62d1886a"
+  },
+  "service": "order-service",
+  "level": "INFO",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:13:18.484Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5cf083608f2a62d1886b"
+  },
+  "service": "order-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:13:20.536Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5cf283608f2a62d1886c"
+  },
+  "service": "auth-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:13:22.622Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5cf483608f2a62d1886d"
+  },
+  "service": "auth-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:13:24.684Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5cf683608f2a62d1886e"
+  },
+  "service": "order-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:13:26.741Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5cf883608f2a62d1886f"
+  },
+  "service": "order-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:13:28.804Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5cfa83608f2a62d18870"
+  },
+  "service": "payment-service",
+  "level": "INFO",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:13:30.883Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5cfc83608f2a62d18871"
+  },
+  "service": "payment-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:13:32.937Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5cfe83608f2a62d18872"
+  },
+  "service": "payment-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:13:34.987Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5d0183608f2a62d18873"
+  },
+  "service": "payment-service",
+  "level": "INFO",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:13:37.962Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5d0483608f2a62d18874"
+  },
+  "service": "payment-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:13:40.032Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5d0683608f2a62d18875"
+  },
+  "service": "payment-service",
+  "level": "INFO",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:13:42.098Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5d0883608f2a62d18876"
+  },
+  "service": "payment-service",
+  "level": "INFO",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:13:44.167Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5d0a83608f2a62d18877"
+  },
+  "service": "order-service",
+  "level": "INFO",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:13:46.228Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5d0c83608f2a62d18878"
+  },
+  "service": "order-service",
+  "level": "INFO",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:13:48.318Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5d0e83608f2a62d18879"
+  },
+  "service": "payment-service",
+  "level": "INFO",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:13:50.381Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5d1083608f2a62d1887a"
+  },
+  "service": "payment-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:13:52.438Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5d1283608f2a62d1887b"
+  },
+  "service": "order-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:13:54.504Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5d1483608f2a62d1887c"
+  },
+  "service": "auth-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:13:56.573Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5d1683608f2a62d1887d"
+  },
+  "service": "auth-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:13:58.632Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5d1883608f2a62d1887e"
+  },
+  "service": "auth-service",
+  "level": "INFO",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:14:00.687Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5d1a83608f2a62d1887f"
+  },
+  "service": "auth-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:14:02.749Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5d1c83608f2a62d18880"
+  },
+  "service": "payment-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:14:04.819Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5d1e83608f2a62d18881"
+  },
+  "service": "auth-service",
+  "level": "INFO",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:14:06.883Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5d2083608f2a62d18882"
+  },
+  "service": "payment-service",
+  "level": "INFO",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:14:08.989Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5d2383608f2a62d18883"
+  },
+  "service": "auth-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:14:11.970Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5d2683608f2a62d18884"
+  },
+  "service": "order-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:14:14.035Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5d2883608f2a62d18885"
+  },
+  "service": "order-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:14:16.091Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5d2a83608f2a62d18886"
+  },
+  "service": "order-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:14:18.146Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5d2c83608f2a62d18887"
+  },
+  "service": "payment-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:14:20.210Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5d2e83608f2a62d18888"
+  },
+  "service": "order-service",
+  "level": "INFO",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:14:22.265Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5d3083608f2a62d18889"
+  },
+  "service": "auth-service",
+  "level": "INFO",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:14:24.396Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5d3283608f2a62d1888a"
+  },
+  "service": "payment-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:14:26.467Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5d3483608f2a62d1888b"
+  },
+  "service": "payment-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:14:28.527Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5d3683608f2a62d1888c"
+  },
+  "service": "payment-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:14:30.646Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5d3883608f2a62d1888d"
+  },
+  "service": "auth-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:14:32.717Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5d3a83608f2a62d1888e"
+  },
+  "service": "order-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:14:34.787Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5d3c83608f2a62d1888f"
+  },
+  "service": "order-service",
+  "level": "INFO",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:14:36.847Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5d3e83608f2a62d18890"
+  },
+  "service": "order-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:14:38.915Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5d4183608f2a62d18891"
+  },
+  "service": "payment-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:14:41.014Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5d4383608f2a62d18892"
+  },
+  "service": "order-service",
+  "level": "INFO",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:14:43.080Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5d4683608f2a62d18893"
+  },
+  "service": "payment-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:14:46.057Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5d4883608f2a62d18894"
+  },
+  "service": "order-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:14:48.114Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5d4a83608f2a62d18895"
+  },
+  "service": "order-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:14:50.172Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5d4c83608f2a62d18896"
+  },
+  "service": "payment-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:14:52.230Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5d4e83608f2a62d18897"
+  },
+  "service": "order-service",
+  "level": "INFO",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:14:54.305Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5d5083608f2a62d18898"
+  },
+  "service": "auth-service",
+  "level": "INFO",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:14:56.382Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5d5283608f2a62d18899"
+  },
+  "service": "payment-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:14:58.448Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5d5483608f2a62d1889a"
+  },
+  "service": "auth-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:15:00.524Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5d5683608f2a62d1889b"
+  },
+  "service": "payment-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:15:02.607Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5d5983608f2a62d1889c"
+  },
+  "service": "payment-service",
+  "level": "INFO",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:15:05.046Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5d5b83608f2a62d1889d"
+  },
+  "service": "order-service",
+  "level": "INFO",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:15:07.198Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5d5d83608f2a62d1889e"
+  },
+  "service": "payment-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:15:09.262Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5d5f83608f2a62d1889f"
+  },
+  "service": "order-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:15:11.325Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5d6183608f2a62d188a0"
+  },
+  "service": "auth-service",
+  "level": "INFO",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:15:13.390Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5d6383608f2a62d188a1"
+  },
+  "service": "order-service",
+  "level": "INFO",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:15:15.461Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5d6683608f2a62d188a2"
+  },
+  "service": "auth-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:15:18.470Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5d6883608f2a62d188a3"
+  },
+  "service": "payment-service",
+  "level": "INFO",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:15:20.536Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5d6a83608f2a62d188a4"
+  },
+  "service": "auth-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:15:22.671Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5d6c83608f2a62d188a5"
+  },
+  "service": "auth-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:15:24.727Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5d6e83608f2a62d188a6"
+  },
+  "service": "order-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:15:26.800Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5d7083608f2a62d188a7"
+  },
+  "service": "auth-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:15:28.898Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5d7283608f2a62d188a8"
+  },
+  "service": "order-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:15:30.958Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5d7583608f2a62d188a9"
+  },
+  "service": "auth-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:15:33.032Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5d7783608f2a62d188aa"
+  },
+  "service": "payment-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:15:35.107Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5d7983608f2a62d188ab"
+  },
+  "service": "payment-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:15:37.169Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5d7b83608f2a62d188ac"
+  },
+  "service": "payment-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:15:39.236Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5d7d83608f2a62d188ad"
+  },
+  "service": "auth-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:15:41.306Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5d7f83608f2a62d188ae"
+  },
+  "service": "auth-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:15:43.447Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5d8183608f2a62d188af"
+  },
+  "service": "payment-service",
+  "level": "INFO",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:15:45.506Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5d8383608f2a62d188b0"
+  },
+  "service": "order-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:15:47.571Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5d8583608f2a62d188b1"
+  },
+  "service": "payment-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:15:49.647Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5d8883608f2a62d188b2"
+  },
+  "service": "payment-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:15:52.644Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5d8a83608f2a62d188b3"
+  },
+  "service": "auth-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:15:54.712Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5d8c83608f2a62d188b4"
+  },
+  "service": "order-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:15:56.774Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5d8e83608f2a62d188b5"
+  },
+  "service": "auth-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:15:58.837Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5d9083608f2a62d188b6"
+  },
+  "service": "payment-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:16:00.902Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5d9283608f2a62d188b7"
+  },
+  "service": "order-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:16:02.964Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5d9583608f2a62d188b8"
+  },
+  "service": "auth-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:16:05.086Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5d9783608f2a62d188b9"
+  },
+  "service": "auth-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:16:07.159Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5d9983608f2a62d188ba"
+  },
+  "service": "auth-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:16:09.221Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5d9b83608f2a62d188bb"
+  },
+  "service": "payment-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:16:11.285Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5d9d83608f2a62d188bc"
+  },
+  "service": "payment-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:16:13.342Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5d9f83608f2a62d188bd"
+  },
+  "service": "auth-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:16:15.422Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5da183608f2a62d188be"
+  },
+  "service": "order-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:16:17.493Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5da383608f2a62d188bf"
+  },
+  "service": "order-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:16:19.561Z"
+  },
+  "host": "server-1"
+},
+{
+  "_id": {
+    "$oid": "697b5da583608f2a62d188c0"
+  },
+  "service": "payment-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:16:21.627Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5da883608f2a62d188c1"
+  },
+  "service": "payment-service",
+  "level": "INFO",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:16:24.612Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5daa83608f2a62d188c2"
+  },
+  "service": "payment-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:16:26.760Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5dac83608f2a62d188c3"
+  },
+  "service": "payment-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:16:28.840Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5dae83608f2a62d188c4"
+  },
+  "service": "payment-service",
+  "level": "WARN",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:16:30.902Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5db083608f2a62d188c5"
+  },
+  "service": "auth-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:16:32.959Z"
+  },
+  "host": "server-2"
+},
+{
+  "_id": {
+    "$oid": "697b5db383608f2a62d188c6"
+  },
+  "service": "payment-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:16:35.029Z"
+  },
+  "host": "server-3"
+},
+{
+  "_id": {
+    "$oid": "697b5db583608f2a62d188c7"
+  },
+  "service": "payment-service",
+  "level": "ERROR",
+  "message": "Dummy log message",
+  "timestamp": {
+    "$date": "2026-01-29T13:16:37.092Z"
+  },
+  "host": "server-1"
+}]
